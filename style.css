@@ -1,0 +1,47 @@
+body{
+    background: url(img/img2.png);
+    border: 3px;
+    height: 550px;
+    background-repeat: no-repeat; }
+
+    .nav-item{
+        margin-left: 50px;
+        margin-right: 20px;
+        text-align: center;
+        display: inline-flex;
+        list-style: none;
+        color: aliceblue;
+        width: 10px;
+        padding: 5px;
+        height: 10px;
+        ;
+        
+    }
+    .navbar-brand, .nav-link {
+        font-weight: bolder !important;
+        color: rgb(168, 154, 154) !important;
+        font-size: 28px;
+    }
+    .container-fluid{
+        background-color:black;
+        padding: 5px 5px;
+    }
+    .nav-item ul {
+        display: inline-flex;
+        list-style: none;
+        color: aliceblue;
+
+    }
+    #PRE2{
+        color: white;
+        margin-left: 110ch;
+        margin-top: -42ch;
+        font-size: 13px
+    }
+    
+    .banner-text{
+        color: rgb(250, 248, 248);
+        margin-top: -19ch;
+        margin-left: -3ch;
+    }
+    
